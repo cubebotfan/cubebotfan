@@ -25,7 +25,7 @@ I have experience programming in JavaScript, Java, C++, and C#. As a web develop
 
 ### wizard-js-remake
 A JavaScript remake of the wizard game I created in Java. Currently my main project using xander-js-3, a JavasScript game library that I made. I want to develop this project to something I can consider a finished game.  
-=https://cubebotfan.github.io/wizard-js-remake/
+https://cubebotfan.github.io/wizard-js-remake/
 
 ### Typing game
 A typing game prototype that I plan to turn it into a full html game. Currently has a high score system using local storage but I might port the project to mvc to create a global leaderboard maybe. Developing the game comes first though.  
